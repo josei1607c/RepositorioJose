@@ -7,7 +7,7 @@ public class Trabajo {
 		
 		System.out.println("Commit por parte de Carlos");
 
-		System.out.println("Commit hecho por Carlos para crear un conflicto");
+		System.out.println("Commit Jose para crear un conflicto");
 	}
 
 }
